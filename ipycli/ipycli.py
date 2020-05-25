@@ -9,7 +9,8 @@ def run():
                                                        b=20
                                                         print("new variables created")
                                                     """)
-
+    a = 10
+    b = 20
     print("Your new variables are a=10, b=20")
     print("""This is my new Banner
 don't change the banner..!
